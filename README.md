@@ -14,4 +14,4 @@ Built using Flask and deployed via Replit.
 - Replit Hosting
 
 ## Live URL
-[Paste your Replit live link here]
+https://be590633-e2ab-410f-ac07-343b7808ea55-00-t3l9tqgo4kv5.picard.replit.dev/
